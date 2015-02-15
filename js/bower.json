@@ -1,0 +1,16 @@
+{
+  "name": "currency-converter-cordova-ex",
+  "version": "0.0.0",
+  "authors": [
+    "RC (Rebeca Carrillo) Clayton"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
